@@ -1,10 +1,10 @@
 # Abdul Rehman
 
-**System administrator | Open Source Enthusiast | Continuous Learner**
+**System Administrator | Open Source Enthusiast | Continuous Learner**
 
 ## About Me
 
-I am a dedicated system administrator, developer with a passion for open-source technologies and continuous learning, I focus on expanding my technical expertise through hands-on projects and self-directed study.
+I am a dedicated system administrator and developer with a passion for open-source technologies and continuous learning. I focus on expanding my technical expertise through hands-on projects and self-directed study.
 
 ## Current Focus Areas
 
