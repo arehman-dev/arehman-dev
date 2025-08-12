@@ -32,10 +32,8 @@ I am currently in a focused learning phase, dedicating time to building and refi
 
 When not coding, I enjoy:
 - Reading (maintains a personal collection of 100+ books)
-- Outdoor activities including hiking and cycling
-- Exploring nature and finding inspiration in the natural world
-- Appreciating quality beverages - green tea and black coffee
-
+- bike riding 
+- hiking 
 ---
 
 *Thank you for visiting my profile. Feel free to explore my repositories and connect with me through the channels above.*
