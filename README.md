@@ -31,7 +31,7 @@ I am currently in a focused learning phase, dedicating time to building and refi
 ## Personal Interests
 
 When not coding, I enjoy:
-- Reading (maintaining a personal library of 100+ books)
+- Reading (maintains a personal collection of 100+ books)
 - Outdoor activities including hiking and cycling
 - Exploring nature and finding inspiration in the natural world
 - Appreciating quality beverages - green tea and black coffee
