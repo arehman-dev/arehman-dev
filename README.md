@@ -24,7 +24,7 @@ I am currently in a focused learning phase, dedicating time to building and refi
 
 ## Contact Information
 
-- **Email**: arehman.sysadin@proton.me
+- **Email**: arehman.sysadin@pm.me
 - **LinkedIn**: [@arehman-dev](https://linkedin.com/in/arehman-dev)
 - **Twitter**: [@arehman_dev](https://twitter.com/arehman_dev)
 
