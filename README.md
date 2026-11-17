@@ -62,6 +62,7 @@ I value software craftsmanship, minimal dependencies, and building reliable syst
 
 When I step away from the terminal and code editor, I spend my time:
 - **Reading:** Maintaining a personal library of 100+ physical and digital books across Islamic scholarship, philosophy, literature, and history.
+- **Bike Riding:** Experiencing the journey over roads & beyond roads.
 - **Hiking & Outdoors:** Exploring the nature trails around the Margalla Hills.
 - **Contemplative Writing:** Reflecting on technology, personal discipline, and systems thinking.
 
