@@ -7,7 +7,7 @@
 **Software Developer | Open Source Enthusiast | Continuous Learner**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-🟢_AVAILABLE_(REMOTE_%2F_HYBRID)_•_PYTHON_•_LINUX_•_AI_•_C%2B%2B20-000000?style=for-the-badge&logo=linux&logoColor=10b981&labelColor=050505" alt="Status and Skills" />
+  <img src="https://raw.githubusercontent.com/arehman-dev/arehman-dev.github.io/main/public/assets/images/status-bar.svg" width="100%" alt="Status and Core Stack" />
 </p>
 
 ## About Me
@@ -20,41 +20,43 @@ I value software craftsmanship, minimal dependencies, and building reliable syst
 
 ---
 
-## 🛠️ Current Focus & Skills
+## 🛠️ Core Capabilities
 
-- **Python Development:** Backend automation, AsyncIO pipelines, multithreaded data processing, and CLI developer tooling.
-- **Linux & Infrastructure:** Server administration across Debian and RHEL, containerization with Docker and Podman, WireGuard VPNs, and Linux network namespaces (`ip netns`).
-- **Applied AI & Vision:** Multilingual document OCR (preserving Arabic Tashkeel and Urdu Nastaliq), OpenCV image processing, and local LLM evaluation.
-- **Modern C++:** Systems programming, memory management (RAII), and core algorithms.
+| 🐍 **Python & Backends** | 🐧 **Linux & Infrastructure** |
+| :--- | :--- |
+| <kbd>Python 3.12</kbd> <kbd>AsyncIO</kbd> <kbd>FastAPI</kbd> <kbd>Pytest</kbd><br>Multithreaded pipelines, data parsing & developer CLIs. | <kbd>RHEL</kbd> <kbd>Debian</kbd> <kbd>Docker</kbd> <kbd>Podman</kbd> <kbd>WireGuard</kbd><br>Hardened server nodes, network namespaces (`ip netns`). |
+| **👁️ Applied AI & Vision** | **⚡ Modern C++ Systems** |
+| <kbd>OpenCV</kbd> <kbd>Tesseract</kbd> <kbd>Vision Models</kbd> <kbd>Poppler</kbd><br>Bilingual Arabic/Urdu OCR with 100% Tashkeel preservation. | <kbd>C++20</kbd> <kbd>STL</kbd> <kbd>RAII</kbd> <kbd>CMake</kbd><br>Resource management, deterministic CLI tools & algorithms. |
 
 ---
 
 ## 📦 Featured Projects
 
-- **[Al-Wahyain](https://github.com/arehman-dev/al-wahyain)**  
-  A high-performance, 100% offline-first scholarly workstation for studying the Holy Qur'an, lexical morphology, and classical Urdu Tafaseer. Built with TypeScript, Electron, and a local dual-database engine powered by SQLite FTS5 across 77,429 morphologically analyzed words.
+#### 📖 [Al-Wahyain](https://github.com/arehman-dev/al-wahyain)
+`TypeScript` • `Electron` • `SQLite FTS5` • `Tailwind CSS` • `Offline-First`
+> High-performance, 100% local-first scholarly workstation for studying the Holy Qur'an, lexical morphology, and classical Urdu Tafaseer. Powered by an offline dual-database engine with SQLite FTS5 across 77,429 words.
 
-- **[My Scripts Collection](https://github.com/arehman-dev/my-scripts)**  
-  A well-structured library of POSIX-compliant Bash, Python, and C++ utilities for server provisioning on Debian/RHEL, automated database backups, docker management, and daily workflow automation.
+#### 🛠️ [My Scripts Collection](https://github.com/arehman-dev/my-scripts)
+`Bash` • `Python` • `C++` • `Linux CLI` • `Automation`
+> Structured suite of POSIX-compliant system administration utilities for automated database/file backups, Debian & RHEL server provisioning, and workflow optimization.
 
-- **[RHEL Home Server](https://github.com/arehman-dev)**  
-  An enterprise-grade self-hosted home server infrastructure running on Red Hat Enterprise Linux (RHEL) and Debian. Built for deterministic reliability, secure remote access via WireGuard, DNS sinkholes, and isolated container services via Podman and Docker Compose.
+#### 🏠 [RHEL Home Server](https://github.com/arehman-dev)
+`RHEL 9` • `Debian 12` • `Podman` • `Docker` • `WireGuard` • `systemd`
+> Self-hosted enterprise server infrastructure designed for deterministic uptime, encrypted remote tunnel access via WireGuard, DNS sinkholes, and isolated container services.
 
-- **[Unified Web Architecture & Portfolio](https://github.com/arehman-dev/portfolio)**  
-  A zero-framework-bloat static architecture built with Astro v6 that unites my Technical Portfolio (`/`) and Personal Digital Window (`/me/`) across 50+ pre-rendered routes with reading comfort engines and pitch-black OLED styling.
+#### 💻 [Unified Web Architecture & Portfolio](https://github.com/arehman-dev/portfolio)
+`Astro v6` • `Static SSG` • `TypeScript` • `CSS Glassmorphism`
+> Zero-framework-bloat static architecture uniting the technical engineering portfolio (`/`) and personal digital window (`/me/`) across 50+ pre-rendered routes.
 
 ---
 
 ## 📝 Recent Articles
 
-- **[Architecting a Resilient Debian Linux Home Server](https://arehman-dev.github.io/articles/architecting-linux-home-server-docker-storage-vpn)** — *12 min read*  
-  Transforming modest hardware into a reliable, self-hosted Linux server with Docker and WireGuard.
-
-- **[Building a Multimodal OCR Pipeline in Python for Arabic & Urdu](https://arehman-dev.github.io/articles/multimodal-ocr-pipeline-python-arabic-urdu)** — *11 min read*  
-  Engineering a high-fidelity document pipeline that retains complex ligatures and vocalization marks.
-
-- **[Isolating Linux Network Topologies with `ip netns` and `veth` Pairs](https://arehman-dev.github.io/articles/isolating-linux-network-topologies-ip-netns)** — *10 min read*  
-  Safely simulating multi-node routing and firewall setups using Linux kernel namespaces.
+| 📑 Article & Deep Dive | Domain | Read Time |
+| :--- | :--- | :---: |
+| **[Architecting a Resilient Debian Linux Home Server](https://arehman-dev.github.io/articles/architecting-linux-home-server-docker-storage-vpn)** | `SysAdmin & Infra` | `⏱️ 12 min` |
+| **[Building a Multimodal OCR Pipeline in Python for Arabic & Urdu](https://arehman-dev.github.io/articles/multimodal-ocr-pipeline-python-arabic-urdu)** | `Applied AI / Vision` | `⏱️ 11 min` |
+| **[Isolating Linux Network Topologies with `ip netns` and `veth` Pairs](https://arehman-dev.github.io/articles/isolating-linux-network-topologies-ip-netns)** | `Linux Kernel Net` | `⏱️ 10 min` |
 
 ---
 
@@ -70,6 +72,8 @@ When I step away from the terminal and code editor, I spend my time:
 
 ## 📬 Connect With Me
 
-- **Portfolio**: [arehman-dev.github.io](https://arehman-dev.github.io)
-- **LinkedIn**: [linkedin.com/in/arehman-dev](https://linkedin.com/in/arehman-dev)
-- **Email**: [arehman.dev@proton.me](mailto:arehman.dev@proton.me)
+<p align="center">
+  <a href="https://arehman-dev.github.io"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=astro&logoColor=10b981&labelColor=050505" alt="Portfolio" /></a>&nbsp;
+  <a href="https://linkedin.com/in/arehman-dev"><img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=084b8f" alt="LinkedIn" /></a>&nbsp;
+  <a href="mailto:arehman.dev@proton.me"><img src="https://img.shields.io/badge/PROTONMAIL-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white&labelColor=4a2eb8" alt="ProtonMail" /></a>
+</p>
