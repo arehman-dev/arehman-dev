@@ -12,34 +12,36 @@
 
 ## About Me
 
-I am a software developer with a genuine passion for open-source technologies, hands-on engineering, and continuous learning. My primary focus is on building practical tools with **Python**, managing **Linux systems**, exploring **Applied AI & Computer Vision**, and writing **Modern C++**.
+Hello! I'm Abdul Rehman, a software developer based in Islamabad, Pakistan. I have a deep curiosity for understanding how computing systems work from the foundation up—from low-level Linux system internals and container runtimes to high-level automation backends and computer vision models.
 
-I believe the best way to understand systems is by building them from the ground up—whether that means self-hosting infrastructure in a home lab, digitizing classical texts with custom OCR pipelines, or experimenting with Linux networking.
+My journey in technology is driven by hands-on experimentation, problem-solving, and continuous self-directed learning. Rather than treating code as abstract magic, I enjoy building tools that solve real problems: whether that means building local-first scholarly workstations with offline databases, setting up resilient enterprise Linux servers in a home lab, writing custom OCR engines for bilingual historical scripts, or automating workflows with clean Python and Bash scripts.
+
+I value software craftsmanship, minimal dependencies, and building reliable systems that respect privacy and user sovereignty.
 
 ---
 
-## 🛠️ Current Focus
+## 🛠️ Current Focus & Skills
 
-- **Python Development:** Building clean backend automation, AsyncIO pipelines, data processing, and CLI tools.
-- **Linux & Systems:** Server administration on Debian/Ubuntu, Docker containerization, WireGuard VPNs, and kernel network namespaces.
-- **Applied AI & Vision:** Multilingual document OCR (preserving Arabic Tashkeel and Urdu Nastaliq) with OpenCV and vision models.
+- **Python Development:** Backend automation, AsyncIO pipelines, multithreaded data processing, and CLI developer tooling.
+- **Linux & Infrastructure:** Server administration across Debian and RHEL, containerization with Docker and Podman, WireGuard VPNs, and Linux network namespaces (`ip netns`).
+- **Applied AI & Vision:** Multilingual document OCR (preserving Arabic Tashkeel and Urdu Nastaliq), OpenCV image processing, and local LLM evaluation.
 - **Modern C++:** Systems programming, memory management (RAII), and core algorithms.
 
 ---
 
 ## 📦 Featured Projects
 
-- **[Arabic & Urdu Vision OCR Pipeline](https://github.com/arehman-dev)**  
-  A multithreaded Python CLI tool built to transcribe hundreds of pages of complex bilingual Arabic-Urdu grammar books with 100% preservation of vowel marks and table formatting.
+- **[Al-Wahyain](https://github.com/arehman-dev/al-wahyain)**  
+  A high-performance, 100% offline-first scholarly workstation for studying the Holy Qur'an, lexical morphology, and classical Urdu Tafaseer. Built with TypeScript, Electron, and a local dual-database engine powered by SQLite FTS5 across 77,429 morphologically analyzed words.
 
-- **[Debian Linux Home Server](https://github.com/arehman-dev)**  
-  My personal self-hosted infrastructure running on Debian, Docker, and WireGuard for secure remote access, local DNS sinkholes, and automated backups.
+- **[My Scripts Collection](https://github.com/arehman-dev/my-scripts)**  
+  A well-structured library of POSIX-compliant Bash, Python, and C++ utilities for server provisioning on Debian/RHEL, automated database backups, docker management, and daily workflow automation.
 
-- **[Virtual Network Testing Sandbox](https://github.com/arehman-dev)**  
-  An isolated multi-node network simulation lab on Linux using kernel network namespaces (`ip netns`) and virtual ethernet (`veth`) pairs for safe routing tests.
+- **[RHEL Home Server](https://github.com/arehman-dev)**  
+  An enterprise-grade self-hosted home server infrastructure running on Red Hat Enterprise Linux (RHEL) and Debian. Built for deterministic reliability, secure remote access via WireGuard, DNS sinkholes, and isolated container services via Podman and Docker Compose.
 
-- **[The Blue Orbit](https://github.com/arehman-dev)**  
-  A 100% offline-first native utility engine with zero telemetry, combining reminders, cashflow tracking, and maintenance logs.
+- **[Unified Web Architecture & Portfolio](https://github.com/arehman-dev/portfolio)**  
+  A zero-framework-bloat static architecture built with Astro v6 that unites my Technical Portfolio (`/`) and Personal Digital Window (`/me/`) across 50+ pre-rendered routes with reading comfort engines and pitch-black OLED styling.
 
 ---
 
@@ -58,10 +60,10 @@ I believe the best way to understand systems is by building them from the ground
 
 ## 🌿 Outside of Coding
 
-When I'm not in the terminal or building software, you'll usually find me:
-- **Reading** (maintaining a personal collection of 100+ books across literature, history, and philosophy)
-- **Cycling & Bike Riding**
-- **Hiking & Exploring Outdoors**
+When I step away from the terminal and code editor, I spend my time:
+- **Reading:** Maintaining a personal library of 100+ physical and digital books across Islamic scholarship, philosophy, literature, and history.
+- **Hiking & Outdoors:** Exploring the nature trails around the Margalla Hills.
+- **Contemplative Writing:** Reflecting on technology, personal discipline, and systems thinking.
 
 ---
 
